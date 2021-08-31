@@ -14,11 +14,12 @@ Chat System is a simple web application with Livewire
 ## Installation
 
 This project must be downloaded.
-```
+
 You will need to be inside the project file to enter all of the rest of the commands.
 
-Install the dependencies and devDependencies and start the server. You can also download the composer if not installed beforehand [here](https://getcomposer.org/).
-```
+Install the dependencies and devDependencies and start the server.
+ You can also download the composer if not installed beforehand [here](https://getcomposer.org/).
+
 ```sh
 $ composer update
 ```
